@@ -28,3 +28,5 @@ To build an interactive dashboard using **Streamlit** that visualizes and analyz
 2. Install required libraries:
    ```bash
    pip install -r requirements.txt
+3. open terminal
+     streamlit run app.py   
