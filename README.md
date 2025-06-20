@@ -29,4 +29,6 @@ To build an interactive dashboard using **Streamlit** that visualizes and analyz
    ```bash
    pip install -r requirements.txt
 3. open terminal
-     streamlit run app.py   
+     streamlit run app.py
+
+  DEPLOYED LINK : https://unemploymentpredictor.streamlit.app/
